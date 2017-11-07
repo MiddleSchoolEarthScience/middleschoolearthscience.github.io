@@ -19,7 +19,7 @@ Eclectic: Students deserve diverse experiences, both in how they learn and expre
 * 3rd Grade Student of the Month, Fort Colville Elementary, Colville, WA  
 
 ### MY EDUCATIONAL HISTORY
-* Master of Arts in Education, University of New Mexico  
+* Master of Arts in Education with Focus on Reflective Practices, University of New Mexico  
 * Bachelor of Science in Parks and Recreation Management with Emphasis in Outdoor Education, Northern Arizona University
 
 ### CONTACT ME
