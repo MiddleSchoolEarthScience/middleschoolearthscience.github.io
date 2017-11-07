@@ -13,12 +13,13 @@ permalink: /about/
 ### MY TEACHING STYLE
 Eclectic: Students deserve diverse experiences, both in how they learn and express their learning.
 
-### HONORS/AWARDS/SHINING TEACHER MOMENT
+### HONORS/AWARDS
 3rd Grade Student of the Month, Fort Colville Elementary, Colville, WA
+2015 Volunteer Service Award, Camp Gray, Reedsburg, WI
 
-### MY OWN EDUCATIONAL HISTORY
-Master of Arts in Education, University of New Mexico  
-Bachelor of Science in Parks and Recreation Management with Emphasis in Outdoor Education, Northern Arizona University
+### MY EDUCATIONAL HISTORY
+* Master of Arts in Education, University of New Mexico  
+* Bachelor of Science in Parks and Recreation Management with Emphasis in Outdoor Education, Northern Arizona University
 
 ### CONTACT ME
 
