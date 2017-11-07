@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### THANK YOU
-My name is Nick Porter and I'm thankful you've taken the time to take a look around my little corner of the internet. Please consider checking out my [Teachers Pay Teachers store](https://www.teacherspayteachers.com/Store/Middle-School-Earth-Science), signing up for my [newsletter for a FREE EARTH SCIENCE DOWNLOAD](https://middleschoolearthscience.github.io), liking my page on [Facebook](https://www.facebook.com/MSEarthScience) and following me on [Pintrest](https://www.pinterest.com/MSEarthScience/).
+My name is Nick Porter and I'm thankful you've taken the time to take a look around my little corner of the internet. Please consider checking out my [Teachers Pay Teachers store](https://www.teacherspayteachers.com/Store/Middle-School-Earth-Science), signing up for my [newsletter for a FREE EARTH SCIENCE DOWNLOAD](https://middleschoolearthscience.github.io), liking my page on [Facebook](https://www.facebook.com/MSEarthScience) and following me on [Pinterest](https://www.pinterest.com/MSEarthScience/).
 
 ### TEACHING EXPERIENCE
 10+ years teaching science and technology in an urban school district.  
