@@ -13,7 +13,7 @@ My name is Nick Porter and I'm thankful you've taken the time to look around my 
 * 1 year running a summer camp as the director.  
 
 ### MY TEACHING STYLE
-Eclectic: In how they learn and express their learning students deserve diverse experiences.
+Eclectic: Students deserve diverse experiences, both in how they learn and express their learning.
 
 ### HONORS/AWARDS
 * 3rd Grade Student of the Month, Fort Colville Elementary, Colville, WA  
