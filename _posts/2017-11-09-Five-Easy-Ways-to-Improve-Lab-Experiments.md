@@ -8,11 +8,11 @@ published: false
 
 Ideally our students should design and conduct their own laboratory experiments in their science classes. This is a level of success which I have yet to have with my students in our 6th grade earth science class. I do believe that students should be involved as much as possible in the construction of their classroom lives; but due to time, safety and avialiablity materials, I haven't found this instructional model feesable. My students have had great success when I made these five easy modifications to canned lab experiments:
 
-1. (Marking the text and procedures)[#mark_the_text]  
-2. (Remove tables and charts)[#remove_tables]  
-3. (Require students to graph their data)[#graph_data]   
-4. (Edit the post-lab questions)[#edit_questions]   
-5. (Require students to reflect on their learning)[#reflect]   
+1. [Marking the text and procedures](#mark_the_text)  
+2. [Remove tables and charts](#remove_tables)  
+3. [Require students to graph their data](#graph_data)   
+4. [Edit the post-lab questions](#edit_questions)   
+5. [Require students to reflect on their learning](#reflect)   
 
 #### <a id="mark_the_text"></a>1. Marking the text and procedures
 Some text
