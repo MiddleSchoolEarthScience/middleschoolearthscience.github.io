@@ -12,19 +12,19 @@ Ideally our students should design and conduct their own laboratory experiments 
 4. [Edit the post-lab questions](#edit_questions)   
 5. [Require students to reflect on their learning](#reflect)   
 
-#### <a id="mark_the_text"></a>1. Marking the text and procedures
+#### <a id="mark_the_text"></a>Marking the text and procedures
 Some text
 
-#### <a id="remove_tables"></a>2. Remove tables and charts
+#### <a id="remove_tables"></a>Remove tables and charts
 Some text
 
-#### <a id="graph_data"></a>3. Require students to graph their data
+#### <a id="graph_data"></a>Require students to graph their data
 Some text
 
-#### <a id="edit_questions"></a>4. Edit the post-lab questions
+#### <a id="edit_questions"></a>Edit the post-lab questions
 Some text
 
-#### <a id="reflect"></a>5. Require students to reflect on their learning
+#### <a id="reflect"></a>Require students to reflect on their learning
 Some text
 
-Thanks for reading. Invitation to comment
+Thanks for reading. Invitation to comment.
