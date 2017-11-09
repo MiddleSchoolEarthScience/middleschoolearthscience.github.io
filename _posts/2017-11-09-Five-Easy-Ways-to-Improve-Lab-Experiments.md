@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Upgrade Your Canned Lab Experiments
-published: false
 ---
 
 ### Five Ways to Improve Lab Experiments
