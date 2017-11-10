@@ -27,7 +27,7 @@ Most of the lab experiments my students do are heavily modified versions of expe
 > 5. Proceed with the lab activity as you normally would.
 > 6. While you are circulating around the room check in with students about the sections they noted with question marks.
 
-This simple text marking activity will help your students to make more meaning of the text and hopefull increase their understanding of the tasks they are performing.
+This simple text marking activity will help your students to make more meaning of the text and hopefull increase their understanding of the tasks they are performing. [Download a student friendly version of this protocal for printing or displaying]().
 
 ### <a id="procedures"></a>Identifying variables in the procedures
 Some text
