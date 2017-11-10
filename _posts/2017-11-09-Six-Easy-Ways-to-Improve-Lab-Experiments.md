@@ -24,8 +24,10 @@ Most of the lab experiments my students do are heavily modified versions of expe
 >    * Underline phrases they think will be helpful when answering post-lab questions.
 >    * Place a question mark in the margins for passages they found difficult to understand.
 > 4. Ask students to share which words they put a box around and answer questions about vocabulary.
+> 5. Proceed with the lab activity as you normally would.
+> 6. While you are circulating around the room check in with students about the sections they noted with question marks.
 
-Proceed with the lab activity as you normally would. While you are circulating around the room check in with students about the sections they noted with question marks. This simple text marking activity will help your students to make more meaning of the text and hopefull increase their understanding of the tasks they are performing.
+This simple text marking activity will help your students to make more meaning of the text and hopefull increase their understanding of the tasks they are performing.
 
 ### <a id="procedures"></a>Identifying variables in the procedures
 Some text
