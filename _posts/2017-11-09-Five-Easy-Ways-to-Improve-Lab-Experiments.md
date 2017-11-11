@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Six Easy Ways to Improve Lab Experiments
+title: Five Easy Ways to Improve Lab Experiments
 published: false
 ---
 
