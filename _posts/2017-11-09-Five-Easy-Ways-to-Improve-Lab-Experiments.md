@@ -38,10 +38,10 @@ Similarly to marking the text, students benefit from a close reading of the lab 
 > 4. Have students share their data tables with the class.
 > 5. Select a usable data table and have students copy it as a final draft into their lab paper.
 
-In my graduate work I found that asking student to create a data table to collect their results significantly increased their understanding of which factors in an experiment were the independent, dependent and constant variables. Creating a data table might not seem significant, but it requires students to think deeply about what is, and is not, imporant in a well designed experiment.
+In my graduate work I found that asking students to create a data table to collect their results significantly increased their understanding of which factors in an experiment were the independent, dependent and constant variables. Creating a data table might not seem significant, but it requires students to think deeply about what is, and is not, imporant in a well designed experiment.
 
 ### <a id="graph_data"></a>Require students to graph their data
-Some text
+During the first few weeks of school my grade level counterpart and I dedicate several days of class to what we call 'Graphing Bootcamp.' We guide and challenge out students to learn to make what we believe are the for most useful representations off data--bar graphs, pie charts, line graphs and scatter plots. This dedicated time has big payoffs throught thr school year. Knowing how to make charts improves our students ability to read charts and make meaning from them. It also allows us to request that students represent their data after a lab, and that we know they have the skills to do so. Even if the data students collected was very simple, it is worth the time to help them both make meaning from their data and learn that communicating your findings clearly to another person is an important part of science.
 
 ### <a id="edit_questions"></a>Edit the post-lab questions
 Some text
