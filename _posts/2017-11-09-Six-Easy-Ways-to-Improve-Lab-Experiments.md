@@ -7,11 +7,10 @@ published: false
 Ideally our students should design and conduct their own laboratory experiments in their science classes. I have yet to realize this ideal with my students in our 6th grade earth science class. I do believe that students should be involved as much as possible in the construction of their classroom lives; but due to time, safety and avialiablity materials, I haven't found this instructional model feesable. My students have had great success when I made these six easy modifications to our lab experiments:
 
 1. [Marking the text](#mark_the_text)
-2. [Identify variables in the procedures](#procedures)
-3. [Remove tables and charts](#remove_tables)  
-4. [Require students to graph their data](#graph_data)   
-5. [Edit the post-lab questions](#edit_questions)   
-6. [Require students to reflect on their learning](#reflect)   
+2. [Identifying variables in the procedures and removing premade data tables](#procedures)  
+3. [Require students to graph their data](#graph_data)   
+4. [Edit the post-lab questions](#edit_questions)   
+5. [Require students to reflect on their learning](#reflect)   
 
 ### <a id="mark_the_text"></a>Marking the text
 Most of the lab experiments my students do are heavily modified versions of experiments I inherited from my predicessor. All of the lab experiments start with a block of text explaining basic information about the topic we are studying. Reading this block of text is a perfect opportunity for students to practice marking the text. Marking text is a series of strategies which help students to identify new vocabulary, identify unknown words and to generally make meaning from a text. Here is a simple protocal to use with your students:
@@ -29,11 +28,8 @@ Most of the lab experiments my students do are heavily modified versions of expe
 
 This simple text marking activity will help your students to make more meaning of the text and increase their understanding of the tasks they are performing. [Download a FREE student friendly version of this protocal for printing or displaying](https://www.teacherspayteachers.com/Product/Text-Marking-Protocol-for-Lab-Experiments-3485031).
 
-### <a id="procedures"></a>Identifying variables in the procedures
-Some text
-
-### <a id="remove_tables"></a>Remove tables and charts
-Some text
+### <a id="procedures"></a>Identifying variables in the procedures and removing premade data tables
+Similarly to marking the text, students benefit from a close reading of the lab procedures. Beyond understanding what to do, students need to learn to identify the idenpendent, dependent and constant variables in an experiment. To help them with this I first remove all premade data tables students would otherwise use to collect information before making copies of the lab. Then during class while reading the procedures individually I ask students to underline any variables being measure or explicitly refered to as needing to be recorded in a data table. After students have underline what THEY think is important, I ask them to make a rough draft of a data table they could use to collect information. I have them share their data tables with their desk partners and then ask for volunteers to share their work with the class using a document camera. Through discussion I guide students into understanding which variables actually need to be measured and which are the constant, dependent and independent variables. If a student has shared a workable data table, I will ask if I can keep it under the data table and then ask students to copy it as a final draft into their lab report.
 
 ### <a id="graph_data"></a>Require students to graph their data
 Some text
