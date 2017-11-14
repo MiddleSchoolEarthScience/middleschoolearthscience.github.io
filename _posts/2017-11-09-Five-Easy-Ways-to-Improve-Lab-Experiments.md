@@ -52,7 +52,7 @@ List two intrusive igneous rocks. | What physical properties are used to identif
 Do all extrusive igneous rocks contain crystals? | Pick an igneous rock and describe its physical properties.
 Why do some igneous rocks have bubble holes? | What chemical compositions are used it distinguish magmas?
 List two extrusive igneous rocks. | Pick a type of magma and describe its chemical composition.
-Granite and obsidian are chemically similar. How are they different? | Use the physical properties of your igneous rock samples to create and identification key or dichotomous key.
+Granite and obsidian are chemically similar. How are they different? | Use the physical properties of your igneous rock samples to create an identification key or dichotomous key.
 
 
 
