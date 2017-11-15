@@ -76,7 +76,7 @@ The questions at the end of a lab should both require students to communicate th
 2. What are you still curious about?
 3. How does (_insert topic_) relate to (_topic previously studied_)?
 
-When students are finished answering the questions, or time runs out, I ask them to share their reflection questions with eachother. Student responses to these reflection questions serve as great conversation starters in class and gain me a window into the holes in their understandings of concepts we are studying. Sometimes we are able to plug these holes in the moment, sometimes they go unanswered and sometimes they lead us in unexpected directions.
+When students are finished answering the questions, or time runs out, I ask them to share their reflection questions responses with eachother. Student responses to these reflection questions serve as great conversation starters in class and gain me a window into the holes in their understandings of concepts we are studying. Sometimes we are able to plug these holes in the moment, sometimes they go unanswered and sometimes they lead us in unexpected directions.
 
 ---
 
