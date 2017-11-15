@@ -4,7 +4,7 @@ title: Five Easy Ways to Improve Lab Experiments
 published: false
 ---
 
-Ideally our students should design and conduct their own laboratory experiments; this is an ideal I have yet to realize with my 6th grade students in our earth science class. While I believe that students should be involved as much as possible in the construction of their classroom lives, due to time, safety and availability of materials I haven't found this instructional model feasible. What I have found feasible are making improvments to existing lab experiments using these five strategies:
+Ideally our students should design and conduct their own laboratory experiments; this is an ideal I have yet to realize with my 6th grade students in our earth science class. While I believe that students should be involved as much as possible in the construction of their classroom lives, due to time, safety and availability of materials I haven't found this instructional model feasible. What I have found feasible are making improvements to existing lab experiments using these five strategies:
 
 1. [Mark the text](#mark_the_text)
 2. [Identify variables and remove pre-made data tables](#procedures)  
@@ -13,7 +13,7 @@ Ideally our students should design and conduct their own laboratory experiments;
 5. [Require students to reflect](#reflect)   
 
 ### <a id="mark_the_text"></a>1. Mark the text
-Most of the lab experiments my students conduct are modified versions of experiments from resource books and periodicals. All the experiments start with a block of text explaining basic information about the topic we are studying. Reading this block of text is a perfect opportunity for students to practice marking the text. Marking text a strategy which helps students to identify new vocabulary, identify unknown words and to make meaning from a text. Here is a simple protocol to use with your students:
+Most of the lab experiments my students conduct are modified versions of experiments from resource books and periodicals. All the experiments start with a block of text explaining basic information about the topic we are studying. Reading this block of text is a perfect opportunity for students to practice marking the text. Marking text is a strategy which helps students to identify new vocabulary, identify unknown words and to make meaning from a text. Here is a simple protocol to use with your students:
 
 #### Simple Text Marking Protocol for Lab Experiments
 1. Read the text in its entirety to the class. This serves as an opportunity for struggling readers to hear fluent reading and to have access to an otherwise challenging passage. Alternatively, you can ask for a volunteer to read the text; be sure to pick a student who is a strong reader.
@@ -76,7 +76,7 @@ The questions at the end of a lab should both require students to communicate th
 2. What are you still curious about?
 3. How does (_insert topic_) relate to (_topic previously studied_)?
 
-When students are finished answering the questions, or time runs out, I ask them to share their reflection questions responses with eachother. Student responses to these reflection questions serve as great conversation starters in class and gain me a window into the holes in their understandings of concepts we are studying. Sometimes we can plug these holes in the moment, sometimes they go unanswered and sometimes they lead us in unexpected directions.
+When students are finished answering the questions, or time runs out, I ask them to share their reflection questions responses with each other. Student responses to these reflection questions serve as great conversation starters in class and gain me a window into the holes in their understandings of concepts we are studying. Sometimes we can plug these holes in the moment, sometimes they go unanswered and sometimes they lead us in unexpected directions.
 
 ---
 
