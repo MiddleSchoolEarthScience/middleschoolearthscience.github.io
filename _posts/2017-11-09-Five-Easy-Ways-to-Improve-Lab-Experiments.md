@@ -43,7 +43,7 @@ In my graduate work I found that asking students to create a data table to colle
 ### <a id="graph_data"></a>3. Require students to graph their data
 During the first few weeks of school my grade level counterpart and I dedicate several days of class to what we call 'Graphing Bootcamp.' We guide and challenge our students to learn to make what we believe are the four most useful representations of data--bar graphs, pie charts, line graphs and scatter plots. This dedicated time has big payoffs throught thr school year. Knowing how to make charts improves our students ability to read charts and make meaning from them. It also allows us to request that students represent their data after a lab, and that we know they have the skills to do so. Even if the data students collected was very simple, it is worth the time to help them both make meaning from their data and learn that communicating your findings clearly to another person is an important part of science.
 
-|<td colspan="2">Simple Rubric for Evaluating Tables, Graphs and Charts</td>|
+#### Simple Rubric for Evaluating Tables, Graphs and Charts
 |---|---|
 ||Title included|
 ||Title appropriate to data set|
