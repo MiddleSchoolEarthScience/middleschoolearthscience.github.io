@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Easy Ways to Improve Lab Experiments
+title: Five Easy Ways to Improve Middle School Lab Experiments
 published: true
 ---
 
