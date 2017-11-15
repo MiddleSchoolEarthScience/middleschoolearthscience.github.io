@@ -80,4 +80,4 @@ When students are finished answering the questions, or time runs out, I ask them
 
 ---
 
-I hope you've found these five easy ways to improve you lab experiments useful and maybe even thought provoking. What strategies have you found useful to improve your lab experiments? Please share them in the comment scection bellow. As we are all always working to improve our teaching craft, I welcome your comments, critisism and suggestions both here and on [Facebook](https://www.facebook.com/MSEarthScience). I also highly encourage you to signed for my newsletter and received your FREE earth science resources. Happy teaching!
+I hope you've found these five easy ways to improve your lab experiments useful and maybe even thought provoking. What strategies have you found useful to improve your lab experiments? Please share them in the comment scection bellow. As we are all always working to improve our teaching craft, I welcome your comments, critisism and suggestions both here and on [Facebook](https://www.facebook.com/MSEarthScience). I also highly encourage you to signed for my newsletter and received your FREE earth science resources. Happy teaching!
