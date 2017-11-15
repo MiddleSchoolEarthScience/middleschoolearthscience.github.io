@@ -46,8 +46,7 @@ During the first few weeks of school my grade level counterpart and I dedicate s
 ### <a id="questions"></a>4. Remove the post-lab questions
 Often the post-lab questions that come with pre-made lab experiments are terrible. They ask discrete questions and don't require students to wreslte with conceptual understanding. Just remove them, think about what you want the students to understand and write your own questions. When I first started doing this I literally cut the questions out with scissors in the work room before running copies; more recently I've digitized these pre-made labs and make modification and improvements each year. When writing your own post-lab questions aim to ask broad questions and request specific examples. Also ask students to do something with their new knowledge. 
 
-####Please see the table below for example questions:
-
+#### Please see the table below for example questions:
 |Original Questions|Teacher Generated Questions|
 |---|---|
 |List two intrusive igneous rocks.|What physical properties are used to identify igneous rocks?|
