@@ -45,7 +45,7 @@ During the first few weeks of school my grade level counterpart and I dedicate s
 
 #### Simple Rubric for Evaluating Tables, Graphs and Charts
 |Criteria|Yes/No|
-|---|---||
+|---|---|
 |Title included||
 |Title appropriate to data set||
 |Makes goog use of space||
