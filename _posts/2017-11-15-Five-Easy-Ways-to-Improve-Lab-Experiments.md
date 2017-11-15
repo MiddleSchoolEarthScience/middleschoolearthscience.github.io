@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Five Easy Ways to Improve Lab Experiments
-published: true
+published: false
 ---
 
-Ideally our students should design and conduct their own laboratory experiments; this is an ideal I have yet to realize with my 6th grade students in our earth science class. While I believe that students should be involved as much as possible in the construction of their classroom lives, due to time, safety and avialiablity of materials I haven't found this instructional model feesable. What I have found feesable are making improvments to existing lab experiments using these five strategies:
+Ideally our students should design and conduct their own laboratory experiments; this is an ideal I have yet to realize with my 6th grade students in our earth science class. While I believe that students should be involved as much as possible in the construction of their classroom lives, due to time, safety and availability of materials I haven't found this instructional model feesable. What I have found feesable are making improvments to existing lab experiments using these five strategies:
 
 1. [Mark the text](#mark_the_text)
 2. [Identify variables and remove pre-made data tables](#procedures)  
