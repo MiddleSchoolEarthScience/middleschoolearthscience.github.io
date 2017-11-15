@@ -45,15 +45,15 @@ During the first few weeks of school my grade level counterpart and I dedicate s
 
 |Simple Rubric for Evaluating Tables, Graphs and Graphs|
 |---|
-|[]|Title included|
-|[]|Title appropriate to data set|
-|[]|Makes goog use of space|
-|[]|Appropriate type of table, graph or chart|
-|[]|Appropriate labels|
-|[]|Data accurately represented|
-|[]|Variables on appropriate axis (not always applicable)|
-|[]|Units of each piece of data are clearly and correctly identified|
-|[]|Shows effective use of tool|
+|Title included|
+|Title appropriate to data set|
+|Makes goog use of space|
+|Appropriate type of table, graph or chart|
+|Appropriate labels|
+|Data accurately represented|
+|Variables on appropriate axis (not always applicable)|
+|Units of each piece of data are clearly and correctly identified|
+|Shows effective use of tool|
 
 ### <a id="questions"></a>4. Remove the post-lab questions
 Often the post-lab questions that come with pre-made lab experiments are terrible. They ask discrete questions and don't require students to wreslte with conceptual understanding. Just remove them, think about what you want the students to understand and write your own questions. When I first started doing this I literally cut the questions out with scissors in the work room before running copies; more recently I've digitized these pre-made labs and make modification and improvements each year. When writing your own post-lab questions aim to ask broad questions and request specific examples. Also ask students to do something with their new knowledge. Please see the table below for example questions:
