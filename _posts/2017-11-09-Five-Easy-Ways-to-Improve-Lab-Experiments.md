@@ -43,6 +43,7 @@ In my graduate work I found that asking students to create a data table to colle
 ### <a id="graph_data"></a>3. Require students to graph their data
 During the first few weeks of school my grade level counterpart and I dedicate several days of class to what we call 'Graphing Bootcamp.' We guide and challenge our students to learn to make what we believe are the four most useful representations of data--bar graphs, pie charts, line graphs and scatter plots. This dedicated time has big payoffs throught thr school year. Knowing how to make charts improves our students ability to read charts and make meaning from them. It also allows us to request that students represent their data after a lab, and that we know they have the skills to do so. Even if the data students collected was very simple, it is worth the time to help them both make meaning from their data and learn that communicating your findings clearly to another person is an important part of science.
 
+<center>
 #### Simple Rubric for Evaluating Tables, Graphs and Charts
 |Criteria|Yes/No|
 |---|---|
@@ -55,10 +56,12 @@ During the first few weeks of school my grade level counterpart and I dedicate s
 |Variables on appropriate axis--not always applicable||
 |Units of each piece of data are clearly and correctly identified||
 |Shows effective use of tool--neat and readable||
+</center>
 
 ### <a id="questions"></a>4. Remove the post-lab questions
 Often the post-lab questions that come with pre-made lab experiments are terrible. They ask discrete questions and don't require students to wreslte with conceptual understanding. Just remove them, think about what you want the students to understand and write your own questions. When I first started doing this I literally cut the questions out with scissors in the work room before running copies; more recently I've digitized these pre-made labs and make modification and improvements each year. When writing your own post-lab questions aim to ask broad questions and request specific examples. Also ask students to do something with their new knowledge. Please see the table below for example questions:
 
+<center>
 |Original Questions|Teacher Generated Questions|
 |---|---|
 |List two intrusive igneous rocks.|What physical properties are used to identify igneous rocks?|
@@ -66,6 +69,7 @@ Often the post-lab questions that come with pre-made lab experiments are terribl
 |Why do some igneous rocks have bubble holes?|What chemical compositions are used it distinguish magmas?|
 |List two extrusive igneous rocks.|Pick a type of magma and describe its chemical composition.|
 |Granite and obsidian are chemically similar. How are they different?|Use the physical properties of your igneous rock samples to create an identification key or dichotomous key.|
+</center>
 
 ### <a id="reflect"></a>5. Require students to reflect on their learning
 Some text
