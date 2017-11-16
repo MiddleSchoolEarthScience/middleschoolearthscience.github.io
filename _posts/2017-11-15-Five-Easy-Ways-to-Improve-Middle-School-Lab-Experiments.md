@@ -3,6 +3,7 @@ layout: post
 title: Five Easy Ways to Improve Middle School Lab Experiments
 published: true
 ---
+![Ready to upgrade your lab experiments?](/images/5easyways1.png "Ready to upgrade your lab experiments?")
 
 Ideally our students should design and conduct their own laboratory experiments; this is an ideal I have yet to realize with my 6th grade students in our earth science class. While I believe that students should be involved as much as possible in the construction of their classroom lives, due to time, safety and availability of materials I haven't found this instructional model feasible. What I have found feasible are making improvements to existing lab experiments using these five strategies:
 
