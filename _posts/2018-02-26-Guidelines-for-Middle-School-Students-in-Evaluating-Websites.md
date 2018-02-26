@@ -5,10 +5,11 @@ published: true
 ---
 
 |GOOD|BAD|MAYBE|
-|---|---|
+|---|---|---|
 |.edu|.com| .org|
 |.gov|.net||
-|---|---|
+|---|---|---|
+|Examples|||
 |nmt.edu|ask.com|GOOD|
 |unm.edu|answers.yahoo.com|nmnaturalhistory.org|
 |usgs.gov|quora.com|BAD|
