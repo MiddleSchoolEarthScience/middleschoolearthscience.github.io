@@ -7,7 +7,7 @@ published: true
 |**GOOD**|**BAD**|**MAYBE**
 |.edu|.com|.org
 |.gov|.net|
-|**EXAMPLES**|
+||**EXAMPLES**|
 |nmt.edu|ask.com|GOOD: nmnaturalhistory.org
 |unm.edu|answers.yahoo.com|BAD: wikipedia.org
 |usgs.gov|quora.com|*Websites with many advertisements are trying*
