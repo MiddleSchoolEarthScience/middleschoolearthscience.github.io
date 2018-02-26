@@ -8,10 +8,10 @@ published: true
 |.edu|.com|.org
 |.gov|.net|
 ||**EXAMPLES**|
-|nmt.edu|ask.com|GOOD: nmnaturalhistory.org
-|unm.edu|answers.yahoo.com|BAD: wikipedia.org
-|usgs.gov|quora.com|*Websites with many advertisements are trying*
-|noaa.gov|stackexchange.com|*to sell things to you; avoid these websites.*
+|nmt.edu|ask&#46;com|GOOD: nmnaturalhistory.org
+|unm.edu|answers.yahoo&#46;com|BAD: wikipedia.org
+|usgs.gov|quora&#46;com|**Websites with many advertisements are trying**
+|noaa.gov|stackexchange&#46;com|**to sell things to you; avoid these websites.**
 
 These are the guidelines I give my students to help them find high quality websites for in-class research. They are not perfect, but they save us a lot of time. What strategies have you found useful to improve your students ability to decern high quality online content? Please share your methods in the comment section bellow. 
 
