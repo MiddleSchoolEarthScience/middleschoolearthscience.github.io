@@ -10,15 +10,14 @@ These are the guidelines I give my students to help them find high quality websi
 |**GOOD**|**BAD**|**MAYBE**|
 |.edu|.com|.org|
 |.gov|.net||
+||Many Advertisements||
 ||**EXAMPLES**||
 |http://nmt.edu |http://ask.com |GOOD: http://nmnaturalhistory.org |
 |http://unm.edu |http://answers.yahoo.com |BAD: http://wikipedia.org |
 |http://usgs.gov |http://quora.com ||
 |http://noaa.gov |http://stackexchange.com ||
 
-**_Websites with many advertisements are trying to sell things to you; avoid these websites._**
-
-What strategies have you found useful to improve your students ability to decern high quality online content? Please share your methods in the comment section bellow. 
+What strategies have you found useful to improve your students ability to decern high-quality online content? Please share your methods in the comment section bellow. 
 
 ---
 
