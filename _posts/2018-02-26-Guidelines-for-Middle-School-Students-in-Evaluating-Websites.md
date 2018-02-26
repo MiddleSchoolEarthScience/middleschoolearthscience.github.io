@@ -13,7 +13,7 @@ published: true
 |http://usgs.gov |http://quora.com ||
 |http://noaa.gov |http://stackexchange.com ||
 
-**_Websites with many advertisements are trying to sell things to you; avoid these websites._**
+|**_Websites with many advertisements are trying to sell things to you; avoid these websites._**|
 
 These are the guidelines I give my students to help them find high quality websites for in-class research. They are not perfect, but they save us a lot of time. What strategies have you found useful to improve your students ability to decern high quality online content? Please share your methods in the comment section bellow. 
 
