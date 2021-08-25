@@ -4,7 +4,9 @@ title: Rock Cycle Game Connect 4
 published: true
 ---
 
-![Rock Cycle Game Connect 4](/images/rcgc4banner.jpeg "Rock Cycle Game Connect 4")
+<p align="center">
+  <img src="/images/rcgc4banner.jpeg">
+</p>
 
 <p align="center"><a href="https://www.teacherspayteachers.com/Product/Rock-Cycle-Game-Connect-4-3439695">Download</a></p>
 
