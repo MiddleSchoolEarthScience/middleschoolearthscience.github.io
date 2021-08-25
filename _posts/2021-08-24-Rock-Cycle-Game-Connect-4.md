@@ -19,7 +19,7 @@ Field tested with sixth-graders, this game challenges students to think of the r
 
 NOTE: This game requires the player tokens to be cut out before playing. It's a significant amount of cutting and I recommend having your students help.
 
-**Check my other Earth Science games:**
+**Check out my other Earth Science games:**
 
 * [Earth Science Games Bundle - Save 20%](https://www.teacherspayteachers.com/Product/Earth-Science-Games-Bundle-3466497 "Earth Science Games Bundle - Save 20%")
 * [Ocean Floor Mapping Battleship](https://www.teacherspayteachers.com/Product/Ocean-Floor-Mapping-Battleship-Game-2502933 "Ocean Floor Mapping Battleship")
