@@ -5,10 +5,13 @@ published: true
 ---
 
 <p align="center">
-  <img src="/images/rcgc4banner.jpeg">
+  <a href="https://www.teacherspayteachers.com/Product/Rock-Cycle-Game-Connect-4-3439695"><img src="/images/rcgc4banner.jpeg"></a>
+</p>  
+<p align="center">
+  <form action="https://www.teacherspayteachers.com/Product/Rock-Cycle-Game-Connect-4-3439695">
+    <input type="submit" value="Download"/>
+  </form>
 </p>
-
-<p align="center"><a href="https://www.teacherspayteachers.com/Product/Rock-Cycle-Game-Connect-4-3439695">Download</a></p>
 
 Rock Cycle Connect 4 Game includes a diagram of the rock cycle, a detailed lesson plan with suggested pre-game activities and a preparation checklist, tokens for each player, a familiar looking gameboard, a visual example of gameplay and easy to follow game instructions.
 
