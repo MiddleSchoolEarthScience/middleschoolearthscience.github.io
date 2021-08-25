@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rock Cycle Game Connect 4
-published: true
+published: false
 ---
 
 ![Rock Cycle Game Connect 4](/images/rcgc4banner.jpeg "Rock Cycle Game Connect 4")
@@ -18,11 +18,17 @@ Field tested with sixth-graders, this game challenges students to think of the r
 NOTE: This game requires the player tokens to be cut out before playing. It's a significant amount of cutting and I recommend having your students help.
 
 **Check out these awesome Earth Science games:**
+
 ..*Earth Science Games Bundle - Save 20%
+
 ..*Ocean Floor Mapping Battleship
+
 ..*Weather Map Symbols Bingo
+
 ..*Rock Cycle Connect Four
+
 ..*Water Cycle Connect Four
+
 ..*Stellar Evolution Connect Four
 
 ---
