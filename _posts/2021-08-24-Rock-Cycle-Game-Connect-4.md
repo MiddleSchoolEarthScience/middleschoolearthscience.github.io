@@ -18,16 +18,16 @@ NOTE: This game requires the player tokens to be cut out before playing. It's a 
 
 **Check out these awesome Earth Science games:**
 
-..*Earth Science Games Bundle - Save 20%
+* [Earth Science Games Bundle - Save 20%](https://www.teacherspayteachers.com/Product/Earth-Science-Games-Bundle-3466497 "Earth Science Games Bundle - Save 20%")
 
-..*Ocean Floor Mapping Battleship
+* [Ocean Floor Mapping Battleship](https://www.teacherspayteachers.com/Product/Ocean-Floor-Mapping-Battleship-Game-2502933 "Ocean Floor Mapping Battleship")
 
-..*Weather Map Symbols Bingo
+* [Weather Map Symbols Bingo](https://www.teacherspayteachers.com/Product/Weather-Map-Symbols-BINGO-Game-1521259 "Weather Map Symbols Bingo")
 
-..*Rock Cycle Connect Four
+* [Rock Cycle Connect Four](https://www.teacherspayteachers.com/Product/Rock-Cycle-Game-Connect-4-3439695 "Rock Cycle Connect Four")
 
-..*Water Cycle Connect Four
+* [Water Cycle Connect Four](https://www.teacherspayteachers.com/Product/Water-Cycle-Game-Connect-4-3505515 "Water Cycle Connect Four")
 
-..*Stellar Evolution Connect Four
+* [Stellar Evolution Connect Four](https://www.teacherspayteachers.com/Product/Stellar-Evolution-Game-Connect-4-3691240 "Stellar Evolution Connect Four")
 
 ---
