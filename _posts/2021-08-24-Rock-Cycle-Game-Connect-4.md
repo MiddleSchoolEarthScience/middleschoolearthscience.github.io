@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rock Cycle Game Connect 4
-published: false
+published: true
 ---
 
 ![Rock Cycle Game Connect 4](/images/rcgc4banner.jpeg "Rock Cycle Game Connect 4")
