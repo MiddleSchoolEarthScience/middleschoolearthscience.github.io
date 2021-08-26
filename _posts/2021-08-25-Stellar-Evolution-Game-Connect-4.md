@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stellar Evolution Game Connect 4
-published: false
+published: true
 ---
 
 <p align="center">
